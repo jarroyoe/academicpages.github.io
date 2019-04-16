@@ -8,52 +8,37 @@ redirect_from:
 ---
 
 {% include base_path %}
+Please find my CV in pdf format <a href="https://jarroyoe.github.io/files/cv.pdf">here</a>.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Applied Mathematics, University of California Davis, 2018-Current
+* B.S. in Mathematics, Universidad de Costa Rica, 2013-2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-Current: Teaching Assistant
+  * University of California Davis
+  * Present weekly discussions for undergraduate-level mathematics classes focusing basic coding in R and analysis of biological data.
+  * Lead groups of undergraduate students in getting teaching methodologies and classroom administration experience.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018: Sr. Specialist/Analyst, Reporting and Analysis
+  * Western Union
+  * Provided consulting services in automation of reporting systems to other departments.
+  * Mentored and led a team of analysts in developing data science skills and projects.
+  
+* 2014-2018: Research Assistant
+  * Universidad de Costa Rica
+  * Collaborated developing data-based models of nation-wide traffic flow of Costa Rica.
+  * Implemented new methods in computational statistics, especially in heuristic optimization and Bayesian inference.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: R, Matlab, SQL
+* BI: Alteryx, Tableau
+* Soft skills: Leadership and problem solving enthusiast.
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spanish
+* English
