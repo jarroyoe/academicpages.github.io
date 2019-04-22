@@ -7,7 +7,9 @@ author_profile: true
 {% include base_path %}
 Current Research
 ======
-Under construction
+## Modeling of spatial dynamics of ecosystem engineers
+<img style="float: left;" src="https://jarroyoe.github.io/images/Kelp_forest-blue.jpg" width="300" height="180"> I am currently interested in the development and analysis of generalized and specific models, using Reaction-Diffusion equations and Integrodifference equations to understand how ecosystem engineers such as sea urchins spread through their habitat. Based on these analytical results, I am interested in understanding how different management decisions (such as increased connectivity of a fragmented habitat or limitation of fishing of a specific population) may affect the fate of a species in an ecosystem.
+<br><br><font size="-2"><b>Source:</b> Wikipedia</font>
 
 Past Research
 ======
