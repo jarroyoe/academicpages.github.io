@@ -20,4 +20,6 @@
 
 <meta http-equiv="cleartype" content="on">
 
+{% if site.google_analytics and jekyll.environment == 'production' %}
 {% include analytics.html %}
+{% endif %}
