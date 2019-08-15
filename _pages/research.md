@@ -8,7 +8,7 @@ author_profile: true
 Current Research
 ======
 ## Analysis of restoration strategies of kelp forests in the northern coast of California
-<img style="float: left;" src="https://jarroyoe.github.io/images/sea-urchins.jpg" width="300" height="180"> I am developing an Integrodifference Equation model to describe the interaction between bull kelp (<i>Nereocystis luetkeana) and its predator, the purple sea urchin (<i>Strongylocentrotus purpuratus<\i>) to analyze potential strategies to restore the kelp forest ecosystem in the northern coast of California.
+<img style="float: left;" src="https://jarroyoe.github.io/images/sea-urchins.jpg" width="300" height="180"> I am developing an Integrodifference Equation model to describe the interaction between bull kelp (<i>Nereocystis luetkeana) and its predator, the purple sea urchin (<i>Strongylocentrotus purpuratus</i>) to analyze potential strategies to restore the kelp forest ecosystem in the northern coast of California.
 <br><br><font size="-2"><b>Source:</b> Wikipedia</font>
 
 ======
@@ -19,7 +19,7 @@ Current Research
 Past Research
 ======
 ## Modeling of biological control in coffee production
-<img style="float: left;" src="https://jarroyoe.github.io/images/hemileia_vastatrix.jpg" width="300" height="180"> My undergraduate research project revolved about defining strategies for biological control of coffee rust (<i>Hemileia vastatrix<\i>) using spatial dynamical systems. We modelled the coffee rust populations of each coffee tree using ordinary differential equations interacting in a discrete graph and we introducedbiological control sources to the system and analyze how these populations interact with each other.
+<img style="float: left;" src="https://jarroyoe.github.io/images/hemileia_vastatrix.jpg" width="300" height="180"> My undergraduate research project revolved about defining strategies for biological control of coffee rust (<i>Hemileia vastatrix</i>) using spatial dynamical systems. We modelled the coffee rust populations of each coffee tree using ordinary differential equations interacting in a discrete graph and we introducedbiological control sources to the system and analyze how these populations interact with each other.
 <br><br><font size="-2"><b>Source:</b> Wikipedia</font>
 
 
