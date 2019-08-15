@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD Student in the Applied Mathematics program in UC Davis working in the Alan Hastings Lab. 
-My research interests lie in the study of population biology spatiotemporal models and its application in strategies for solving problems in conservation biology.
+I am a second year PhD Student in the Applied Mathematics program in UC Davis working in the Alan Hastings Lab. 
+My research interests lie in the study of spatial dynamics in marine ecosystems using spatiotemporal models to identify more effective conservation strategies.
