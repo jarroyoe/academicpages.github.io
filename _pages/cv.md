@@ -22,6 +22,10 @@ Work experience
   * Present weekly discussions for undergraduate-level mathematics classes focusing basic coding in R and analysis of biological data.
   * Lead groups of undergraduate students in getting teaching methodologies and classroom administration experience.
 
+* 2019: Associate Instructor
+  * University of California Davis
+  * Lectured and designed evaluations of introductory calculus for business and management students.
+
 * 2018: Sr. Specialist/Analyst, Reporting and Analysis
   * Western Union
   * Provided consulting services in automation of reporting systems to other departments.
@@ -34,7 +38,7 @@ Work experience
   
 Skills
 ======
-* Programming languages: R, Matlab, SQL
+* Programming languages: R, Matlab, Git, SQL
 * BI: Alteryx, Tableau
 * Soft skills: Leadership and problem solving enthusiast.
 
@@ -42,3 +46,5 @@ Languages
 ======
 * Spanish
 * English
+* Japanese
+* French
