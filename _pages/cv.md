@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* 2020-Current: Graduate Student Researcher
+  * University of California Davis
+  * Perform data analysis and reconstruction of stream flow data in Rio Grande basin in the border between Mexico and the United States
+
 * 2018-Current: Teaching Assistant
   * University of California Davis
   * Present weekly discussions for undergraduate-level mathematics classes focusing basic coding in R and analysis of biological data.
